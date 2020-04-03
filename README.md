@@ -4,4 +4,4 @@ Shim is a wep-app made in MERN stack.
 
 ## Demo
 
-https://shim-a0f94.web.app/
+https://shim-1d9a4.web.app/
