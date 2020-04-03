@@ -2,7 +2,7 @@
 
 Shim is a wep-app made in MERN stack.
 
-(*paginated through infinity scroll*)
+(*paginated through infinity scroll*)<br/>
 to load more pictures, just drag scoll to bottom.
 
 ## Demo
