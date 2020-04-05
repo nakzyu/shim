@@ -5,7 +5,7 @@ https://shim-1d9a4.web.app/
 
 ## Shim
 
-Shim is a Single Page App made in MERN stack.
+Shim is a single-page application made in MERN stack.
 
 ## How To Use
 
