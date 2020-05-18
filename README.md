@@ -2,7 +2,7 @@
 
 Live Demo: https://shim-fbfa3.web.app/
 
-![Screenshot]("./shimGif.gif")
+![Screenshot](./shimGif.gif)
 
 ## Introduction
 
