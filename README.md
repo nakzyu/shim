@@ -2,7 +2,7 @@
 
 Live Demo: https://shim-fbfa3.web.app/
 
-![Screenshot](./images/gif.gif)
+![Screenshot](https://res.cloudinary.com/daokgy02f/image/upload/v1589783991/shimGif_j56gta.gif)
 
 ## Introduction
 
@@ -10,18 +10,11 @@ Shim is a single-page application made in MERN stack.
 
 ## Features
 
-- 암호화폐의 실시간 현황을 확인
-  ![Screenshot](./images/rank.png)
+- edit user profile & message
 
-- 포트폴리오 생성
-  ![Screenshot](./images/create.png)
+- edit & delete post content 
 
-- 포트폴리오들의 총 손익 현황 확인
-  ![Screenshot](./images/mylist.png)
-
-To-do list:
-
-- 개별 화폐 정보를 한눈에 대시보드로 확인 할 수 있습니다.(진행중)
+- like & unlike other's posts
 
 ## Technologies
 
