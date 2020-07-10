@@ -1,5 +1,5 @@
 # Shim
-***Unable AdBlock chrome extension to see posts***
+***Unable AdBlock chrome extension to see posts.***
 
 Live Demo: https://shim-fbfa3.web.app/
 
